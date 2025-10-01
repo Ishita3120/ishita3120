@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Ishita Sahay
-# Hi there 👋, I'm Ishita Sahay  
 
 💻 **Passionate about Technology | Machine Learning | Data Science | Web Development | Blockchain**  
 
