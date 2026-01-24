@@ -1,5 +1,5 @@
 HELLO👋🏻,
-##Computer Engineering undergraduate learning by building real-world projects.
+Computer Engineering undergraduate learning by building real-world projects.
 Currently focusing on Python-based systems, databases, and applied data analysis.
 Interested in mentorship-driven growth and collaborative learning.
  
