@@ -1,16 +1,17 @@
-# Hi there 👋, I'm Ishita Sahay
-
-💻 **Passionate about Technology | Machine Learning | Data Science | Web Development | Blockchain**  
-
-Welcome to my GitHub profile! I love building projects that solve real-world problems and exploring new technologies. 🚀  
+#Computer Engineering undergraduate learning by building real-world projects.
+Currently focusing on Python-based systems, databases, and applied data analysis.
+Interested in mentorship-driven growth and collaborative learning.
+ 
 
 ---
 
-## 🌟 About Me  
-- 🎓 Currently learning advanced **Python**, **Data Structures & Algorithms**, and building projects in **Machine Learning & Web Development**.  
-- 🌱 Exploring **Data Science**, **ML models**, **AI applications**, and **Blockchain technologies**.  
-- 💡 Problem solver & curious learner with a knack for experimenting with new tech stacks.  
-- 🤝 Open to collaborations on interesting projects.  
+👩‍💻 About Me
+
+- I enjoy learning by building complete projects rather than isolated code snippets.
+- Recently worked on Python–Tkinter and MySQL projects to understand how real-world systems are structured.
+- I’m actively improving my problem-solving skills and core CS fundamentals.
+- Looking for mentorship to gain clarity on learning depth, industry expectations, and best practices.
+
 
 ---
 
@@ -47,6 +48,21 @@ Welcome to my GitHub profile! I love building projects that solve real-world pro
 - 🔗 [View Repository](https://github.com/Ishita3120/DSA-Practice)  
 
 ---
+🛠 Featured Projects
+
+- 🏨 Hotel Management System  
+  Python + Tkinter + MySQL  
+  A desktop application to manage bookings, users, and reports.  
+  (Focused on OOP design and database integration)
+
+- 📊 Sales Data Warehouse & OLAP  
+  MySQL + Power BI  
+  Built a small data warehouse and performed slice, dice, roll-up & drill-down operations.
+
+- 🌦 Dynamic Weather Dashboard  
+  Python + API  
+  Real-time weather application using OpenWeatherMap API.
+
 
 ## 🌐 Connect with Me  
 
@@ -57,3 +73,4 @@ Welcome to my GitHub profile! I love building projects that solve real-world pro
 
 ## 💡 Fun Fact  
 I love solving **DSA challenges**, exploring **AI applications**, and occasionally experimenting with **blockchain projects**. 🚀  
+currently on a mission of improving my problem solving through regular practice of DSA on platforms such as GeeksForGeeks and LeetCode.
