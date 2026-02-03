@@ -1,77 +1,55 @@
-HELLO👋🏻,
-Computer Engineering undergraduate learning by building real-world projects.
-Currently focusing on Python-based systems, databases, and applied data analysis.
-Interested in mentorship-driven growth and collaborative learning.
- 
+👋 Hi, I’m Ishita
 
----
+I’m a B.Tech Computer Engineering student (Class of 2027) with a strong interest in software development, backend systems, and data-driven applications.
 
-👩‍💻 About Me
+I enjoy building things step by step — focusing on fundamentals, clarity, and real understanding rather than rushing into advanced topics without a base.
 
-- I enjoy learning by building complete projects rather than isolated code snippets.
-- Recently worked on Python–Tkinter and MySQL projects to understand how real-world systems are structured.
-- I’m actively improving my problem-solving skills and core CS fundamentals.
-- Looking for mentorship to gain clarity on learning depth, industry expectations, and best practices.
+💻 What I’m Currently Working On
 
+Strengthening Data Structures & Algorithms
 
----
+Exploring backend development concepts
 
-## 🛠️ Tech Stack  
+Building projects using Python and MySQL
 
-**Languages:** Python | JavaScript | SQL | HTML | CSS  
-**Web Dev:** Django | Flask | React | Bootstrap  
-**Data Science & ML:** Pandas | NumPy | Matplotlib | Scikit-learn | Weka  
-**Database:** MySQL | SQLite  
-**Other Tools:** Git | GitHub | VS Code | Tableau | Power BI  
+Improving problem-solving and coding consistency
 
----
+🛠️ Technical Interests
 
-## 📂 GitHub Stats  
+Programming with Python and Java
 
-![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishita3120&show_icons=true&theme=radical)  
+Core CS concepts: DSA, OOPS, DBMS, Operating Systems
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishita3120&layout=compact&theme=radical)  
+Database-backed applications
 
----
+Learning how real-world systems are designed and scaled
 
-## 🔥 Projects Highlights  
+📌 Projects
 
-### 🏨 Hotel Management System (Python + Tkinter + MySQL)  
-- Full-fledged GUI system to manage hotel operations.  
-- Room booking, customer management, and report generation.  
-- 🔗 [View Repository](https://github.com/Ishita3120/Hotel-Management)  
+Hotel Management System
+A Python + MySQL based application to manage bookings, customer records, and billing.
+This project helped me understand how logic, data, and structure come together in a real application.
 
----
+(More projects coming as I continue learning and building.)
 
-### 📘 DSA Practice  
-- Organized solutions for algorithms & data structures in Python.  
-- Categorized by topics: Arrays, Linked List, Trees, Graphs, Dynamic Programming.  
-- 🔗 [View Repository](https://github.com/Ishita3120/DSA-Practice)  
+🌱 How I Approach Learning
 
----
-🛠 Featured Projects
+I prefer:
 
-- 🏨 Hotel Management System  
-  Python + Tkinter + MySQL  
-  A desktop application to manage bookings, users, and reports.  
-  (Focused on OOP design and database integration)
+building fewer projects deeply rather than many shallow ones
 
-- 📊 Sales Data Warehouse & OLAP  
-  MySQL + Power BI  
-  Built a small data warehouse and performed slice, dice, roll-up & drill-down operations.
+understanding why something works, not just how
 
-- 🌦 Dynamic Weather Dashboard  
-  Python + API  
-  Real-time weather application using OpenWeatherMap API.
+improving consistently, even if it’s slow
 
+I believe strong fundamentals matter more than quick shortcuts.
 
-## 🌐 Connect with Me  
+🎯 Current Goal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-sahay-76884a2a5)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitasahay31@gmail.com)  
+To grow as a software engineer by building solid foundations and gaining hands-on experience through meaningful internships.
 
----
+📫 Let’s Connect
 
-## 💡 Fun Fact  
-I love solving **DSA challenges**, exploring **AI applications**, and occasionally experimenting with **blockchain projects**. 🚀  
-currently on a mission of improving my problem solving through regular practice of DSA on platforms such as GeeksForGeeks and LeetCode.
+LinkedIn: https://www.linkedin.com/in/ishita-sahay-76884a2a5
+
+GitHub: https://github.com/Ishita3120
