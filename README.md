@@ -1,55 +1,60 @@
-👋 Hi, I’m Ishita
+# Ishita Sahay
 
-I’m a B.Tech Computer Engineering student (Class of 2027) with a strong interest in software development, backend systems, and data-driven applications.
+`Computer Engineering Student • Software Development • AI/ML`
 
-I enjoy building things step by step — focusing on fundamentals, clarity, and real understanding rather than rushing into advanced topics without a base.
+> Work hard in silence. Let the work speak.
 
-💻 What I’m Currently Working On
+```text
+ishita@github:~$ currently
 
-Strengthening Data Structures & Algorithms
+→ Strengthening fundamentals
+→ Learning AI/ML basics
+→ Building practical projects
+→ Exploring Docker
 
-Exploring backend development concepts
+ishita@github:~$ _
+🌱 Learning & Building
 
-Building projects using Python and MySQL
+I’m always trying to strengthen my fundamentals rather than
+rushing through technologies.
 
-Improving problem-solving and coding consistency
+I work with:
+Java • Python • React • MySQL • PostgreSQL
 
-🛠️ Technical Interests
+Data & ML:
+NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
 
-Programming with Python and Java
+Currently understanding:
+AI/ML fundamentals • Docker
 
-Core CS concepts: DSA, OOPS, DBMS, Operating Systems
+The goal is simple: understand the basics well, build with them,
+and keep learning along the way.
 
-Database-backed applications
+🛠️ Projects
+AI Resume & Job Matcher
 
-Learning how real-world systems are designed and scaled
+A Python-based application that extracts structured information
+from resumes and compares them with a given job description.
 
-📌 Projects
+Tech: Python • Groq • Pydantic • PDF/DOCX Processing
+
+Bangalore House Price Prediction
+
+A machine learning project for predicting house prices using
+housing-related features.
+
+Tech: Python • Pandas • NumPy • Scikit-learn
 
 Hotel Management System
-A Python + MySQL based application to manage bookings, customer records, and billing.
-This project helped me understand how logic, data, and structure come together in a real application.
 
-(More projects coming as I continue learning and building.)
+A desktop-based hotel management application.
 
-🌱 How I Approach Learning
+Tech: Python • Tkinter • MySQL
 
-I prefer:
-
-building fewer projects deeply rather than many shallow ones
-
-understanding why something works, not just how
-
-improving consistently, even if it’s slow
-
-I believe strong fundamentals matter more than quick shortcuts.
-
-🎯 Current Goal
-
-To grow as a software engineer by building solid foundations and gaining hands-on experience through meaningful internships.
-
-📫 Let’s Connect
-
-LinkedIn: https://www.linkedin.com/in/ishita-sahay-76884a2a5
-
-GitHub: https://github.com/Ishita3120
+📚 Currently Working On
+Data Structures & Algorithms
+Backend development
+AI/ML fundamentals
+Practical AI projects
+🔗 Connect
+GitHub: Ishita3120
